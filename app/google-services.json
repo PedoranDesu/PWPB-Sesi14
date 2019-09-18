@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "976339751037",
+    "firebase_url": "https://pwpbsesi14.firebaseio.com",
+    "project_id": "pwpbsesi14",
+    "storage_bucket": "pwpbsesi14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976339751037:android:4a9253ebc752b70f6f6114",
+        "android_client_info": {
+          "package_name": "com.pedoran.pwpbsesi14"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976339751037-cnaitfvdp6v39jc2ag6lis3fdggc667k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pedoran.pwpbsesi14",
+            "certificate_hash": "8f69c925f40521cff46d953d5a4276c0afcddc86"
+          }
+        },
+        {
+          "client_id": "976339751037-2iu3polghn70et9j92iflcth80rhn15i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhrFpiQJjwuRBASDhR7ZD2SUQe5vVSFMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976339751037-2iu3polghn70et9j92iflcth80rhn15i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

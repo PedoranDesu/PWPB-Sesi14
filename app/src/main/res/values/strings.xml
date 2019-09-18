@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PWPBSesi14</string>
+    
+    <array name="difficulty">
+        <item>Beginner</item>
+        <item>Intermediate</item>
+        <item>Complex</item>
+        <item>Super-Complex</item>
+    </array>
+</resources>
